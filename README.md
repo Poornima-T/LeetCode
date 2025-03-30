@@ -1,2 +1,3 @@
 # LeetCode
-LeetCode Problems and Committing Solutions after practice
+LeetCode Problems and Solutions 
+Committing Code after practice
